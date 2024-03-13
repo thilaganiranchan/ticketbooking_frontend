@@ -51,7 +51,7 @@ function Signup() {
           class="container-login100"
           style={{ backgroundColor: "transparent", marginTop: "-2%" }}
         >
-          <div class="wrap-login100" style={{ height: "662px" }}>
+          <div class="wrap-login100" style={{ height: "662px",marginTop:"30px"  }}>
             <form class="login100-form validate-form p-l-55 p-r-55 p-t-178">
               <span class="login100-form-title">Create Account </span>
 
