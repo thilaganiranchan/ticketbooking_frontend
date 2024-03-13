@@ -9,7 +9,7 @@ function Homenavbar() {
   
   return (
     <div>
-        <nav className="navbar navbar-inverse nav1 fixed-nav-bar" >
+        <nav className="navbar navbar-inverse nav1 " >
   <div className="container-fluid">
     <div className="navbar-header">
       <button type="button" className="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
