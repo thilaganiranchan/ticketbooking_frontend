@@ -18,7 +18,7 @@ function Moviespage() {
     <div>
       <Usernavbar />
       <br />
-      <img src="https://in.bmscdn.com/webin/static/offers/rbloffer/rbl-banner-3.jpg"  class="img-fluid" height="300" width={1200} style={{padding:"0",margin:"0",marginTop:"15px"}}  alt="Responsive image"></img> 
+      <img src="https://in.bmscdn.com/webin/static/offers/rbloffer/rbl-banner-3.jpg"  class="img-fluid responsive" height="300"  style={{padding:"0",margin:"0",marginTop:"15px"}}  alt="Responsive image"></img> 
       {/* <h1
         style={{
           textAlign: "left",
