@@ -44,7 +44,10 @@
     font-family: cursive;
     text-align: center;
 }
-
+.responsive {
+    width: 80%;
+    
+  }
 
 .project__title .btn {
     margin-left: -34px;
