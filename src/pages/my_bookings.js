@@ -153,7 +153,7 @@ function Mybookings() {
                         const moviename = data.moviename;
                         const ceatnames = data.ceatnames;
                         Axios.delete(
-                          "https://ticketbooking-backend-atiw.onrender.com/cancelbooking/",
+                          "https://ticketbooking-backend-atiw.onrender.com/api/cancelbooking/",
                           {
                             params: {
                               email: email,
