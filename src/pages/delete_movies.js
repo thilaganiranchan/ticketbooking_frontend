@@ -63,7 +63,7 @@ function Deletemovies() {
                   className="btn btn-danger"
                   style={{ width: "100%" }}
                   onClick={() => {
-                    Axios.delete("https://ticketbooking-backend-atiw.onrender.com/deletemovie/", {
+                    Axios.delete("https://ticketbooking-backend-atiw.onrender.com/api/deletemovie/", {
                       params: {
                         moviename: val.moviename
                       }
